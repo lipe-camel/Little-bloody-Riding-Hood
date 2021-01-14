@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3a4f5fecaa2c244787f0d659a95e495, type: 3}
+  m_Name: Z4a - Lobo come todas
+  m_EditorClassIdentifier: 
+  storyText: "Coloquei o cesto na frente dele. Ele olhou pra mim, farejou... e continuou
+    olhando pra mim. E AVAN\xC7OU.\n\nMEU PESCO\xC7O! QUE DOR!\nN\xC3O SINTO O CH\xC3O!\n\n\"AAAAAAAAAhhhhhhhhhhhhhhhhhh\"\n\nO
+    ch\xE3o.. t\xE3o gelado... vov\xF3... consigo te ver... lobo.. n\xE3o.. N\xC2O...\n\nRASGG
+    THOMP GRRRR KRRRR\n\nVov\xF3.. me desculpa... eu nem devia ter sa\xEDdo de casa...\n\n\n\n-
+    Planejamento \xE9 a ferramenta do amanh\xE3 -\n1. Morrer"
+  nextStates:
+  - {fileID: 11400000, guid: 10d70a8769f708c47a66efa423d23547, type: 2}

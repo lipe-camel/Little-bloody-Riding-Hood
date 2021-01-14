@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3a4f5fecaa2c244787f0d659a95e495, type: 3}
+  m_Name: "A0 - Introdu\xE7\xE3o"
+  m_EditorClassIdentifier: 
+  storyText: "Todo dia \xE9 a mesma coisa. Mam\xE3e me manda limpar a casa, limpo.
+    Mam\xE3e me manda eu fazer comida, fa\xE7o. Queria conhecer a natureza ao redor
+    da casa, ir visitar a vov\xF3, mas mam\xE3e diz que ainda sou muito nova pra
+    sair sozinha. S\xF3 queria um pouco de aventura nessa vida mon\xF3tona!\nSer
+    crian\xE7a devia ser mais divertido...\n\n\n\n1. Continuar\n\n(Aperte os bot\xF5es
+    de 1 a 3 para fazer escolhas e avan\xE7ar na hist\xF3ria.)"
+  nextStates:
+  - {fileID: 11400000, guid: 6f8290592db43984298d6f7606b19528, type: 2}
